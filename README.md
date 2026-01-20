@@ -21,6 +21,8 @@
 
 ---
 ## 📍 Table of Contents
+<div align="left">
+  
 - [📖 About the Project](#-about-opensource-compass)
 - [🎯 Vision & Objectives](#-project-vision--objectives)
 - [✨ Key Features & Learning Paths](#-key-features--learning-paths)
@@ -29,6 +31,8 @@
 - [🚀 Getting Started](#-getting-started)
 - [👥 Team & Mentors](#-team--swoc26)
 - [📜 License](#-license)
+
+</div>
 
 ---
 
@@ -123,7 +127,6 @@ graph TD
 ---
 
 ### 🧑‍🏫 Mentors
-##
 
 | Name | Role | GitHub | LinkedIn |
 |----|----|------|---------|
@@ -161,7 +164,8 @@ Thanks to these amazing people who have contributed to **OpenSource Compass** �
 ## 🤝 Contribution Guidelines (SWOC’26)
 
 ### How to Contribute
-
+<div align="left">
+  
 1. Browse the **Issues** section  
 2. Comment on the issue you want to work on  
 3. Wait for assignment  
@@ -381,6 +385,8 @@ Big thanks to everyone contributing! You make this awesome! 💖
 ## 🚀 Quick Links
 
 [Repository](https://github.com/sayeeg-11/OpenSource-Compass) | [Issues](https://github.com/sayeeg-11/OpenSource-Compass/issues) | [Pull Requests](https://github.com/sayeeg-11/OpenSource-Compass/pulls)
+
+</div>
 
 ---
 

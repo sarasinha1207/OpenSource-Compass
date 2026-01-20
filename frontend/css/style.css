@@ -583,10 +583,6 @@ body.dark-mode footer.site-footer {
   display: none;
 }
 
-/* =========================
-   DARK MODE FIXES
-========================= */
-
 /* Fix Navbar Background in Dark Mode */
 body.dark-mode .navbar, 
 body.dark-mode header {
@@ -653,7 +649,6 @@ body.dark-mode .newsletter-section input {
 
 /* =========================================
    FINAL FIXES (Cards, Newsletter, Footer)
-========================================= */
 
 /* 1. Fix Card Headlines (H4) in Dark Mode */
 /* The program cards use <h4>, not just <h3> */
@@ -686,4 +681,16 @@ body.dark-mode .newsletter input {
 
 
 
+
+#scrollTopBtn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: none;
+  border: none;
+  padding: 10px 12px;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 9999;
+}
 
